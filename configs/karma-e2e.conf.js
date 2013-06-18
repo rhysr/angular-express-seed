@@ -66,7 +66,7 @@ captureTimeout = 60000;
 singleRun = false;
 
 proxies = {
-    "/": "http://localhost:3000"
+    "/": "http://localhost:3000/"
 };
 
-urlRoot = '/e2e/';
+urlRoot = '/__karma/';
